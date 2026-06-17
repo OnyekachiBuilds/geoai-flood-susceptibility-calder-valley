@@ -1,6 +1,6 @@
 # GeoAI Flood Susceptibility Mapping in Calder Valley
 
-This project applies Random Forest machine learning, GIS, remote sensing, and Python to assess flood susceptibility across Calder Valley, West Yorkshire.
+This project applies Random Forest machine learning, GIS, remote sensing, and Python to assess flood susceptibility across Calder Valley, West Yorkshire, United Kingdom
 
 ## Tools
 - QGIS
