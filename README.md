@@ -45,6 +45,13 @@ This project applies Random Forest Machine Learning, GIS, Remote Sensing, and Py
 * ROC-AUC: 0.91
 * Flood Recall: 92%
 
+## Visual Outputs
+
+* Flood Susceptibility Map
+* ROC Curve
+* Confusion Matrix
+* Feature Importance Analysis
+
 ## Key Findings
 
 The model successfully identified high-susceptibility corridors that closely follow the Calder Valley river network. Results demonstrate the effectiveness of machine learning in capturing complex relationships between terrain, hydrology, vegetation, and rainfall compared with traditional weighted-overlay approaches.
