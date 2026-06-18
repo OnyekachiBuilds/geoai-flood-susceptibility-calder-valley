@@ -63,6 +63,22 @@ The model successfully identified high-susceptibility corridors that closely fol
 * scripts/ – Python scripts
 * outputs/ – Model outputs and figures
 
+## Flood Susceptibility Map
+
+![Flood Susceptibility Map](maps/Flood_Susceptibility_Map.png)
+
+## ROC Curve
+
+![ROC Curve](maps/ROC_Curve.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](maps/Confusion_Matrix.png)
+
+## Feature Importance
+
+![Feature Importance](maps/Feature_Importance.png)
+
 ## Author
 
 **Onyekachi Orji**
